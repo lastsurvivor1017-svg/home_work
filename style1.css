@@ -1,0 +1,213 @@
+*
+{
+    margin: 0;
+}
+.header
+{
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.under
+{
+width: 250px;
+height: 60px;
+display: flex;
+gap: 40px;
+padding: 20px;
+align-items: center;
+}
+.about
+{
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.under1
+{
+    width: 587px;
+    height: 332px;
+}
+.divimage
+{
+    width: 180px;
+    height: 588px;
+    margin-left: 20px;
+    background-color: blueviolet;
+    background-image: url(./meritt-thomas-u-Hb93V6IWI-unsplash\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.divimage1
+{
+    width: 180px;
+    height: 588px;
+    margin-left: 20px;
+    margin-top: 150px;
+    background-color: blueviolet;
+    background-image: url(./meritt-thomas-u-Hb93V6IWI-unsplash\ 2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.divimage2
+{
+    width: 180px;
+    height: 588px;
+    margin-left: 20px;
+    background-color: blueviolet;
+    background-image: url(./meritt-thomas-u-Hb93V6IWI-unsplash\ 3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about1
+{
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.divimage3
+{
+    width: 384px;
+    height: 576px;
+    background-image: url(./image\ 13.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.under2
+{
+    width: 690px;
+    height: 366px;
+    margin-left: 80px;
+}
+.about2
+{
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.under3
+{
+    width: 584px;
+    height: 159px;
+}
+.divimage4
+{
+    width: 384px;
+    height: 100%;
+    background-image: url(./image\ 21.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.divimage5
+{
+    width: 384px;
+    height: 100%;
+    background-image: url(./image\ 18.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about3
+{
+    height: 350px;
+    text-align: center;
+}
+.information
+{
+    height: 600px;
+    
+}
+.under4
+{
+    width: 90%;
+    height: 98%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+.und1
+{
+    width: 30%;
+    height: 100%;
+}
+.heroend
+{
+height: 600px;
+display: flex;
+margin-top: 40px;
+justify-content: center;
+align-items: center;
+}
+.und2
+{
+width: 407px;
+height: 278px;
+}
+.und3
+{
+    width: 588px;
+    height: 506px;
+    margin-left: 170px;
+}
+.und4
+{
+    width: 99%;
+    height: 100px;
+    border: 3px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.und5
+{
+    width: 99%;
+    height: 158px;
+    border: 3px solid black;
+    margin-top: 40px;
+}
+.und6
+{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+.heroend1
+{
+    height: 600px;
+    width: 100%;
+}
+.under5
+{
+    width: 795px;
+    height: 100%;
+    margin-left: 350px;
+    text-align: center;
+}
+.end
+{
+    height: 500px;
+    background-color: #0B265A;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.under6
+{
+    width: 186px;
+    height: 300px;
+}
+.under7
+{
+    width: 45%;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    color: #D9DBDE;
+}
